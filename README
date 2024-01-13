@@ -1,0 +1,22 @@
+# Blog Website Design
+
+This project is a simple blog website design with a header, sidebar, content area, and footer. It is built using HTML and CSS, and it provides a basic structure that you can expand upon for your blog content.
+
+## Introduction
+
+This project is a static blog website design with a responsive layout. It consists of a header, sidebar, content area, and footer. The goal is to provide a starting point for a blog website that you can customize according to your content and styling preferences.
+
+## Project Structure
+
+- **`index.html`:** Main HTML file containing the structure of the website.
+- **`style.css`:** CSS file for styling the HTML elements.
+
+## Preview
+
+Include screenshots or GIFs of your blog website to give users a quick preview.
+
+## How to Use
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/KoushalThakur/Blog-Website-Design]
